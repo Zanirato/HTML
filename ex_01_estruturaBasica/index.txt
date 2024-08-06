@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>página web da Zani</title>
+	</head>
+	<body>
+		<p>"Carpe diem. Aproveitem o dia, meninos. Façam
+                de suas vidas uma coisa extraordinária."
+		-Dead Poets Society</p>
+	</body>
+</html>
